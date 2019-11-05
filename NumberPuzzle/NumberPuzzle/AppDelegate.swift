@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  NumberPuzzle
-//
-//  Created by Ronnie Li on 10/27/19.
-//  Copyright © 2019 Ronnie Li. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
